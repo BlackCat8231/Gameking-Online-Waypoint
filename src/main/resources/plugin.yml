@@ -2,3 +2,6 @@ name: Gameking_online_Waypoint
 version: '${project.version}'
 main: com.waypoint.plugin.gameking_online_waypoint.Gameking_online_Waypoint
 api-version: 1.18
+commands:
+  waypoint:
+    description: waypoint 입니다.
